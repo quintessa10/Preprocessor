@@ -1,6 +1,6 @@
 # Custom C Preprocessor Implementation
 
-This project is a systems programming application written in standard C that mimics the fundamental operations of a C preprocessor. It processes C source code files to handle compiler directives and strip comments before the actual compilation phase begins, ultimately generating a clean, preprocessed .i output file.
+This project is a systems programming application written in standard C that mimics the fundamental operations of a C preprocessor. It processes C source code files to handle compiler directives and strip comments before the actual compilation phase begins, ultimately generating a clean, preprocessed `.i` output file.
 
 ## Key Features & Functionalities
 
